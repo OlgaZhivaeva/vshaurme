@@ -14,6 +14,7 @@ vshaurme/settings/local.py
 .vscode/
 .DS_Store/
 *.sqlite3
+.idea/
 
 # C extensions
 *.so
