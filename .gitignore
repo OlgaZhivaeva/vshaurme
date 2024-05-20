@@ -13,6 +13,7 @@ vk_config.v2.json
 vshaurme/settings/local.py
 .vscode/
 .DS_Store/
+*.sqlite3
 
 # C extensions
 *.so
